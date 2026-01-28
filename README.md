@@ -7,4 +7,4 @@ Available on Google Drive:
 - Project documentation
 
 Link:
-https://drive.google.com/file/d/1bSaWCclIxNQpoBRhOD37E5JqAcWXIisu/view
+https://drive.google.com/file/d/1dyHAQELyZv1M6N7k3Qdtj3Jz_pFlFi3V/view?usp=sharing
