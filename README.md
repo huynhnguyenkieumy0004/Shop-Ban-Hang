@@ -1,5 +1,10 @@
 ## Demo & Large Files
-Due to GitHub file size limitations, large files are not uploaded to this repository.
+Due to GitHub file size limitations, large files are not included in this repository.
 
-Demo videos and large files are available at:
-https://drive.google.com/file/d/1bSaWCclIxNQpoBRhOD37E5JqAcWXIisu/view?usp=sharing
+Available on Google Drive:
+- Demo video
+- Full database backup
+- Project documentation
+
+Link:
+https://drive.google.com/file/d/1bSaWCclIxNQpoBRhOD37E5JqAcWXIisu/view
